@@ -19,7 +19,3 @@
     chrome.runtime.sendMessage({badgeText: "n/a"});
   }
 })();
- cvcc =======[];0]
- o8iu-=[-========p=][\
-
-'/' ]
